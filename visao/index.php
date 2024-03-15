@@ -21,7 +21,7 @@
 
                 <ul class="navbar-nav mr-auto">
 
-                    <li class="nav-item active "><a class="nav-link" href="https://localhost/N2_CRUD/visao/consulta.php">Busca por Id</a></li>
+                    <li class="nav-item active "><a class="nav-link" href="https://localhost/N2_CRUD/visao/consulta.php">Buscar vaga por Id</a></li>
 
                     </li>
 
@@ -47,14 +47,14 @@
 
                         <div class="form-group row">
                             <div class="col">
-                                <label for="descricao" class="form-label">Descricao</label>
+                                <label for="descricao" class="form-label">Descrição da vaga</label>
                                 <input type="descricao" class="form-control" id="descricao" name="descricao">
                             </div>
                         </div>
 
                         <div class="form-group row">
                             <div class="col">
-                                <label for="info" class="form-label">info</label>
+                                <label for="info" class="form-label">informações adicionais</label>
                                 <input type="info" class="form-control" id="info" name="info">
                             </div>
                         </div>
@@ -62,7 +62,7 @@
 
                         <div class="form-group row">
                             <div class="col">
-                                <label for="email" class="form-label">Email</label>
+                                <label for="email" class="form-label">E-mail para contato</label>
                                 <input type="email" class="form-control" id="email" name="email">
                             </div>
                         </div>
@@ -87,7 +87,7 @@
 
                 <div class="col-auto ">
 
-                    <p>© Copyright 2021</p>
+                    <p>© Copyright 2024</p>
 
                 </div>
 
